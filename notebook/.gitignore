@@ -1,7 +1,0 @@
-venv/
-data/
-*.xlsx
-*.zip
-*.csv
-__pycache__/
-.ipynb_checkpoints/
